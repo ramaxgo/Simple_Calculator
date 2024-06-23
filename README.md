@@ -3,7 +3,7 @@
 In this project i have designed a simple calculator using HTML,CSS and Java Script.
 <br>
 <br>
-**HOW TO USE:**
+HOW TO USE:
 <br>
 Open the link in any browser to use it.
 <br>
